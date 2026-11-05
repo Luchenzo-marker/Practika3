@@ -111,9 +111,10 @@
 
 <details>
 <summary> Нажмите здесь, чтобы развернуть код проверки гипотез</summary>
-
-# 1. Поиск мультиаккаунтов
+    
 ```
+# 1. Поиск мультиаккаунтов
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
